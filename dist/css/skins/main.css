@@ -1,0 +1,142 @@
+.error {
+ color: #e74c3c;
+ font-size: 12px;
+}
+
+label.error {
+    font-weight: normal;
+    color: red;
+}
+
+/*.main-footer {
+    background: #f37021;
+    padding: 15px;
+    color: #444;
+    border-top: 1px solid #eee;
+}*/
+
+.info-box small {
+    font-size: 12px;
+}
+
+
+.situation_label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    margin-top: 8px;
+}
+
+.box-body {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 20px;
+}
+
+.content-header {
+    position: relative;
+    padding: 15px 0 15px;
+}
+
+
+.skin-yellow .main-header .navbar {
+    background-color: #f37021;
+}
+.skin-yellow .main-header .logo {
+    background-color:  #c97745;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+.skin-yellow .sidebar-menu > li > a:hover, .skin-yellow .sidebar-menu > li.active > a {
+    color: #fff;
+    background: #1e282c;
+    border-left-color: #f37021;
+}
+/*.skin-yellow .sidebar-menu>li.header {
+    color: #ffffff;
+    font-size: 16px;
+    background: #CC6600;
+}
+*/
+
+/*.skin-yellow .sidebar a {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.skin-yellow .main-sidebar, .skin-yellow .left-side {
+    background: #f37021;
+}
+
+.skin-yellow .sidebar-menu > li > a:hover, .skin-yellow .sidebar-menu > li.active > a {
+    color: #fff;
+    background: #CC6600;
+    border-left-color: #FF7F50;
+}
+
+.skin-yellow .wrapper, .skin-yellow .main-sidebar, .skin-yellow .left-side {
+    background: #f37021;
+}
+
+.skin-yellow .main-header .logo {
+    background-color: #CC6600;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+*/
+
+.small-box h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+    white-space: nowrap;
+    padding: 0;
+}
+
+
+.small-box > .inner {
+    padding: 30px;
+}
+
+
+.form-inline .form-control {
+    display: inline-block;
+    width: 24%;
+    vertical-align: middle;
+}
+
+.modal-backdrop {
+    z-index: 1040 !important;
+}
+.modal-dialog {
+    margin: 2px auto;
+    z-index: 1100 !important;
+}
+
+
+ .tab-icon{
+     vertical-align: middle;
+     margin-right: 8px;
+     width: 40px;
+ }
+
+.nav li.active a,
+.nav li a:hover,
+.nav li.active a:focus,
+.nav li.active a:hover{
+    color: #F37021;
+    font-weight: bold;
+}
+
+.login-page, .register-page {
+    background: #d2d6de;
+    background-image: url(bg2.jpg);
+}
+
+#registerform .error {
+    color: red;
+}
