@@ -60,7 +60,11 @@
 				<?php }
 				//This menu item will only show up if an admin is logged in.
 				?>
-
+				<li class="treeviewview">
+						  <a href="logout.php">
+							<i class="fa fa-sign-out"></i> <span>Sign Out</span> </i>
+						  </a>
+				</li>
 			
 
 		 

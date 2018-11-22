@@ -4,7 +4,7 @@
         <div class="pull-right hidden-xs">
           Developed by @ <a href="">William Imo - Benjamin Owenda</a>
         </div>
-        <strong>Copyright &copy; 2018  <a href="http://almsaeedstudio.com">Academia - Industry</a> </strong> All rights reserved.
+        <strong>Copyright &copy; 2018  <a href="#">Academia - Industry</a> </strong> All rights reserved.
       </footer>
     </div><!-- ./wrapper -->
 
