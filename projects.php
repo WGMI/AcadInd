@@ -164,7 +164,10 @@ include 'pages/includes/header.php';
             <tr>
                 <th>Project ID</th>
                 <th>Title</th>
-                <th>Description</th>
+                <th>Deadline</th>
+                <th>Category</th>
+                <th>Website</th>
+                <th>Attachements</th>
             </tr>
         </tfoot>
     </table>
